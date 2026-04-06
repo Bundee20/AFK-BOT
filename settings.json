@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HARAM-SMP.aternos.me:29605",
+    "ip": "HARAM-SMP.aternos.me",
     "port": 29605,
     "version": "",
     "try-creative": false
